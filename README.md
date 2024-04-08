@@ -1,0 +1,2 @@
+# Mining-Reddit-Predictive-Analytics-of-Reddit-Post-Engagement-Using-ML
+Conducted a comprehensive analysis of Reddit post data using machine learning  to predict post scores, focusing on the influence of post timing, title sentiment, and subreddit dynamics , evaluated multiple predictive models, including Linear Regression, Random Forest, and XGBoost, achieving significant insights into content engagement patterns.
